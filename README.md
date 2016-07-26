@@ -45,5 +45,6 @@ git clone https://github.com/loosebazooka/simple-spring-boot-appengine-app
 </plugin>
 ```
 - You are now ready to run commands
+  - Run : `mvn appengine:run`
   - Stage : `mvn appengine:stage`
   - Deploy : `mvn appengine:deploy`
